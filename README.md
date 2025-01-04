@@ -1,4 +1,4 @@
-Distro:                         Rating:
+Distro:-------------------------Rating:
 1. Mint                         8/10
 2. MX Linux                     5/10
 3. Endeavour OS                 3/10
