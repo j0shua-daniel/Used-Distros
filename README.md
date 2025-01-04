@@ -1,3 +1,4 @@
+```
 Distro:-------------------------Rating:
 1. Mint-------------------------8/10
 2. MX Linux---------------------5/10
@@ -61,7 +62,7 @@ Distro:-------------------------Rating:
 60. Windows 7------------------10/10
 61. Windows 10------------------6/10
 62. Windows 11------------------0/10
-
+```
 Yes this is quite a long list...
 
 But it is all the OS's I have actually tried!
